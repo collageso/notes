@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Tags/Untitled.md",
+                "file": "05 - Main Notes/프로그래밍 패러다임.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Tags/Untitled.md",
+                "file": "05 - Main Notes/프로그래밍 패러다임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Tags/Untitled.md",
+                "file": "05 - Main Notes/프로그래밍 패러다임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Tags/Untitled.md"
+                "file": "05 - Main Notes/프로그래밍 패러다임.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "8a5d2707c9d0cd9d",
   "lastOpenFiles": [
-    "05 - Main Notes/프로그래밍 패러다임.md",
-    "02 - Tags/Untitled.md",
-    "04 - Templates/Full Note.md",
+    "02 - Tags/객체 지향 프로그래밍.md",
     "03 - Indexes/Algorithm & Data Structure.md",
+    "05 - Main Notes/프로그래밍 패러다임.md",
+    "04 - Templates/Full Note.md",
     "02 - Tags/Rust.md",
     "05 - Main Notes/New Note.md",
     "01 - Source Material/Books/Some Material.md",
