@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Main Notes/책임 주도 설계.md",
+                "file": "03 - Indexes/알고리즘 & 자료구조.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff8531f764379a3d",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Main Notes/책임 주도 설계.md",
+                "file": "03 - Indexes/알고리즘 & 자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Main Notes/책임 주도 설계.md",
+                "file": "03 - Indexes/알고리즘 & 자료구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Main Notes/책임 주도 설계.md"
+                "file": "03 - Indexes/알고리즘 & 자료구조.md"
               }
             }
           }
@@ -164,8 +163,8 @@
   },
   "active": "9491d16b86ae1f8e",
   "lastOpenFiles": [
-    "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
     "05 - Main Notes/책임 주도 설계.md",
+    "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
     "05 - Main Notes/Untitled.md",
     "05 - Main Notes/객체의 의인화.md",
     "05 - Main Notes/캡슐화, 응집도, 결합도.md",
@@ -175,7 +174,7 @@
     "05 - Main Notes/프로그래밍 패러다임.md",
     "02 - Tags/프로그래밍 용어.md",
     "04 - Templates/Full Note.md",
-    "03 - Indexes/Algorithm & Data Structure.md",
+    "03 - Indexes/알고리즘 & 자료구조.md",
     "02 - Tags/객체지향 프로그래밍.md",
     "02 - Tags/Rust.md",
     "05 - Main Notes/New Note.md",
