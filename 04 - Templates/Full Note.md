@@ -1,4 +1,4 @@
-adasdasd
+
 {{date}} {{time}}
 
 Tags:

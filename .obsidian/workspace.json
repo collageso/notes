@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Templates/Full Note.md",
+                "file": "03 - Indexes/Algorithm & Data Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Templates/Full Note.md",
+                "file": "03 - Indexes/Algorithm & Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Templates/Full Note.md",
+                "file": "03 - Indexes/Algorithm & Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Templates/Full Note.md"
+                "file": "03 - Indexes/Algorithm & Data Structure.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "9302bbe08088f926",
   "lastOpenFiles": [
-    "03 - Indexes/Algorithm & Data Structure.md",
     "04 - Templates/Full Note.md",
+    "03 - Indexes/Algorithm & Data Structure.md",
     "02 - Tags/Rust.md",
     "05 - Main Notes/New Note.md",
     "01 - Source Material/Books/Some Material.md",
