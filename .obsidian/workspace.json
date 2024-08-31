@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0890985819af0ae6",
+        "id": "3e73f7a02e827af9",
         "type": "tabs",
         "children": [
           {
-            "id": "9302bbe08088f926",
+            "id": "8a5d2707c9d0cd9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Indexes/Algorithm & Data Structure.md",
+                "file": "05 - Main Notes/프로그래밍 패러다임.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Indexes/Algorithm & Data Structure.md",
+                "file": "05 - Main Notes/프로그래밍 패러다임.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Indexes/Algorithm & Data Structure.md",
+                "file": "05 - Main Notes/프로그래밍 패러다임.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Indexes/Algorithm & Data Structure.md"
+                "file": "05 - Main Notes/프로그래밍 패러다임.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9302bbe08088f926",
+  "active": "8a5d2707c9d0cd9d",
   "lastOpenFiles": [
+    "05 - Main Notes/프로그래밍 패러다임.md",
     "04 - Templates/Full Note.md",
     "03 - Indexes/Algorithm & Data Structure.md",
     "02 - Tags/Rust.md",
