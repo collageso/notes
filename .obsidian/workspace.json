@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Main Notes/프로그래밍 패러다임.md",
+                "file": "05 - Main Notes/소프트웨어 모듈.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Main Notes/프로그래밍 패러다임.md",
+                "file": "05 - Main Notes/소프트웨어 모듈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Main Notes/프로그래밍 패러다임.md",
+                "file": "05 - Main Notes/소프트웨어 모듈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Main Notes/프로그래밍 패러다임.md"
+                "file": "05 - Main Notes/소프트웨어 모듈.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "8a5d2707c9d0cd9d",
   "lastOpenFiles": [
-    "04 - Templates/Full Note.md",
     "05 - Main Notes/프로그래밍 패러다임.md",
+    "05 - Main Notes/소프트웨어 모듈.md",
+    "04 - Templates/Full Note.md",
+    "02 - Tags/소프트웨어 용어.md",
     "02 - Tags/객체 지향 프로그래밍.md",
     "03 - Indexes/Algorithm & Data Structure.md",
     "02 - Tags/Rust.md",
