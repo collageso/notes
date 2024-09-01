@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Indexes/알고리즘 & 자료구조.md",
+                "file": "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Indexes/알고리즘 & 자료구조.md",
+                "file": "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Indexes/알고리즘 & 자료구조.md",
+                "file": "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Indexes/알고리즘 & 자료구조.md"
+                "file": "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md"
               }
             }
           }
@@ -163,10 +163,12 @@
   },
   "active": "9491d16b86ae1f8e",
   "lastOpenFiles": [
-    "05 - Main Notes/책임 주도 설계.md",
     "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
-    "05 - Main Notes/Untitled.md",
+    "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
     "05 - Main Notes/객체의 의인화.md",
+    "03 - Indexes/알고리즘 & 자료구조.md",
+    "05 - Main Notes/책임 주도 설계.md",
+    "05 - Main Notes/Untitled.md",
     "05 - Main Notes/캡슐화, 응집도, 결합도.md",
     "05 - Main Notes/소프트웨어 모듈.md",
     "05 - Main Notes/협력, 책임, 역할.md",
@@ -174,7 +176,6 @@
     "05 - Main Notes/프로그래밍 패러다임.md",
     "02 - Tags/프로그래밍 용어.md",
     "04 - Templates/Full Note.md",
-    "03 - Indexes/알고리즘 & 자료구조.md",
     "02 - Tags/객체지향 프로그래밍.md",
     "02 - Tags/Rust.md",
     "05 - Main Notes/New Note.md",
@@ -195,7 +196,6 @@
     "01 - Source Material/Books",
     "01 - Source Material/Articles",
     "Welcome.md",
-    "U.md",
     "01 - Source Material"
   ]
 }
