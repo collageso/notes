@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md",
+                "file": "05 - Main Notes/명령-쿼리 분리 원칙.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md",
+                "file": "05 - Main Notes/명령-쿼리 분리 원칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md",
+                "file": "05 - Main Notes/명령-쿼리 분리 원칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md"
+                "file": "05 - Main Notes/명령-쿼리 분리 원칙.md"
               }
             }
           }
@@ -165,11 +165,12 @@
   "active": "9491d16b86ae1f8e",
   "lastOpenFiles": [
     "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
-    "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md",
-    "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
     "05 - Main Notes/객체의 의인화.md",
-    "03 - Indexes/알고리즘 & 자료구조.md",
+    "05 - Main Notes/명령-쿼리 분리 원칙.md",
+    "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md",
     "05 - Main Notes/책임 주도 설계.md",
+    "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
+    "03 - Indexes/알고리즘 & 자료구조.md",
     "05 - Main Notes/Untitled.md",
     "05 - Main Notes/캡슐화, 응집도, 결합도.md",
     "05 - Main Notes/소프트웨어 모듈.md",
@@ -192,7 +193,6 @@
     "03 - Indexes/Programming Language.md",
     "03 - Indexes",
     "01 - Source Material/Videos/Some Material.md",
-    "01 - Source Material/Articles/Some Material.md",
     "02 - Tags",
     "01 - Source Material/Videos",
     "01 - Source Material/Books",
