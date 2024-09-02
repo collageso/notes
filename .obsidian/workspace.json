@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Main Notes/정보은닉과 모듈.md",
+                "file": "05 - Main Notes/추상 데이터 타입.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Main Notes/정보은닉과 모듈.md",
+                "file": "05 - Main Notes/추상 데이터 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Main Notes/정보은닉과 모듈.md",
+                "file": "05 - Main Notes/추상 데이터 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Main Notes/정보은닉과 모듈.md"
+                "file": "05 - Main Notes/추상 데이터 타입.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "active": "9491d16b86ae1f8e",
   "lastOpenFiles": [
     "05 - Main Notes/추상화와 분해, 그에 따른 패러다임 변천사.md",
+    "05 - Main Notes/추상 데이터 타입.md",
     "05 - Main Notes/정보은닉과 모듈.md",
     "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md",
     "05 - Main Notes/책임 주도 설계.md",
@@ -188,7 +189,6 @@
     "05 - Main Notes/Some Main Notes.md",
     "05 - Main Notes/title.md",
     "05 - Main Notes/asd.md",
-    "02 - Tags/JavaScript.md",
     "05 - Main Notes",
     "04 - Templates",
     "03 - Indexes",
