@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff8531f764379a3d",
@@ -165,8 +164,8 @@
   "active": "9491d16b86ae1f8e",
   "lastOpenFiles": [
     "05 - Main Notes/추상 데이터 타입.md",
-    "05 - Main Notes/추상화와 분해, 그에 따른 패러다임 변천사.md",
     "05 - Main Notes/클래스.md",
+    "05 - Main Notes/추상화와 분해, 그에 따른 패러다임 변천사.md",
     "05 - Main Notes/프로시저 추상화와 기능 분해.md",
     "05 - Main Notes/정보은닉과 모듈.md",
     "05 - Main Notes/좋은 퍼블릭 인터페이스를 만드는 원칙.md",
