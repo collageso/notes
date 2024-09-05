@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Main Notes/의존성 이해하기.md",
+                "file": "05 - Main Notes/의존성 관리 원칙.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Main Notes/의존성 이해하기.md",
+                "file": "05 - Main Notes/의존성 관리 원칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Main Notes/의존성 이해하기.md",
+                "file": "05 - Main Notes/의존성 관리 원칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Main Notes/의존성 이해하기.md"
+                "file": "05 - Main Notes/의존성 관리 원칙.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "active": "2e2fdbe439de562c",
   "lastOpenFiles": [
     "05 - Main Notes/의존성 이해하기.md",
+    "05 - Main Notes/의존성 관리 원칙.md",
+    "05 - Main Notes/정보은닉과 모듈.md",
     "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
     "05 - Main Notes/추상화와 분해, 그에 따른 패러다임 변천사.md",
     "05 - Main Notes/추상 데이터 타입.md",
@@ -160,7 +162,6 @@
     "05 - Main Notes/협력, 책임, 역할.md",
     "05 - Main Notes/프로그래밍 패러다임.md",
     "05 - Main Notes/클래스.md",
-    "05 - Main Notes/정보은닉과 모듈.md",
     "05 - Main Notes/소프트웨어 모듈.md",
     "05 - Main Notes/명령-쿼리 분리 원칙.md",
     "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
@@ -174,7 +175,6 @@
     "02 - Tags/Rust.md",
     "05 - Main Notes/New Note.md",
     "01 - Source Material/Books/Some Material.md",
-    "05 - Main Notes/Some Main Notes.md",
     "05 - Main Notes",
     "04 - Templates",
     "03 - Indexes",
