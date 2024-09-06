@@ -149,8 +149,9 @@
   },
   "active": "2e2fdbe439de562c",
   "lastOpenFiles": [
-    "05 - Main Notes/의존성 관리 기법.md",
+    "05 - Main Notes/소프트웨어 모듈.md",
     "05 - Main Notes/의존성 관리 원칙.md",
+    "05 - Main Notes/의존성 관리 기법.md",
     "05 - Main Notes/의존성 이해하기.md",
     "05 - Main Notes/정보은닉과 모듈.md",
     "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
@@ -163,7 +164,6 @@
     "05 - Main Notes/협력, 책임, 역할.md",
     "05 - Main Notes/프로그래밍 패러다임.md",
     "05 - Main Notes/클래스.md",
-    "05 - Main Notes/소프트웨어 모듈.md",
     "05 - Main Notes/명령-쿼리 분리 원칙.md",
     "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
     "05 - Main Notes/객체의 의인화.md",
