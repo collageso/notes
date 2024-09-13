@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md",
+                "file": "05 - Main Notes/다형성에 대한 일반적인 의미.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md",
+                "file": "05 - Main Notes/다형성에 대한 일반적인 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md",
+                "file": "05 - Main Notes/다형성에 대한 일반적인 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md"
+                "file": "05 - Main Notes/다형성에 대한 일반적인 의미.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "2e2fdbe439de562c",
   "lastOpenFiles": [
+    "05 - Main Notes/상속을 위한 경고.md",
     "05 - Main Notes/다형성에 대한 일반적인 의미.md",
     "05 - Main Notes/메시지, 오퍼레이션, 메서드, 퍼블릭 인터페이스, 시그니처.md",
     "05 - Main Notes/협력, 책임, 역할.md",
@@ -160,7 +161,6 @@
     "05 - Main Notes/추상 데이터 타입.md",
     "05 - Main Notes/추상화와 분해, 그에 따른 패러다임 변천사.md",
     "05 - Main Notes/상속, 인터페이스, 다형성, 합성.md",
-    "05 - Main Notes/상속을 위한 경고.md",
     "05 - Main Notes/오버라이딩과 오버로딩.md",
     "05 - Main Notes/소프트웨어 모듈.md",
     "05 - Main Notes/의존성 관리 원칙.md",
