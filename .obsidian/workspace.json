@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md",
+                "file": "05 - Main Notes/상속을 사용할 때의 고려사항.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md",
+                "file": "05 - Main Notes/상속을 사용할 때의 고려사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md",
+                "file": "05 - Main Notes/상속을 사용할 때의 고려사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Main Notes/상속을 위한 경고.md"
+                "file": "05 - Main Notes/상속을 사용할 때의 고려사항.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "2e2fdbe439de562c",
   "lastOpenFiles": [
-    "05 - Main Notes/타입 계층 구현할 때 지켜야하는 제약사항 (상속의 관점).md",
     "05 - Main Notes/상속을 위한 경고.md",
+    "05 - Main Notes/상속을 사용할 때의 고려사항.md",
     "05 - Main Notes/타입의 개념.md",
     "05 - Main Notes/클래스.md",
     "05 - Main Notes/객체의 의인화.md",
