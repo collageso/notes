@@ -149,8 +149,9 @@
   },
   "active": "2e2fdbe439de562c",
   "lastOpenFiles": [
-    "05 - Main Notes/상속을 사용할 때의 고려사항.md",
+    "05 - Main Notes/캡슐화, 응집도, 결합도.md",
     "05 - Main Notes/SOLID 원칙.md",
+    "05 - Main Notes/상속을 사용할 때의 고려사항.md",
     "05 - Main Notes/상속을 위한 경고.md",
     "05 - Main Notes/소프트웨어 모듈.md",
     "05 - Main Notes/의존성 관리 원칙.md",
@@ -166,7 +167,6 @@
     "05 - Main Notes/협력, 책임, 역할.md",
     "05 - Main Notes/프로시저 추상화와 기능 분해.md",
     "05 - Main Notes/프로그래밍 패러다임.md",
-    "05 - Main Notes/캡슐화, 응집도, 결합도.md",
     "05 - Main Notes/책임 주도 설계.md",
     "05 - Main Notes/추상 데이터 타입.md",
     "05 - Main Notes/추상화와 분해, 그에 따른 패러다임 변천사.md",
