@@ -3,14 +3,22 @@
 
 Tags: [[프로그래밍 용어]]
 
-- S(Single Responsibility Principle, SRP)
+- S *(Single Responsibility Principle, SRP)*
 	- 클래스는 단 한가지의 변경 이유만 가져야 한다.
 
-- O(Open-Closed Principle, OCP)
+- O *(Open-Closed Principle, OCP)*
 	- 소프트웨어 개체(클래스, 모듈, 함수 등등)는 확장에 대해 열려 있어야 하고, 수정에 대해서는 닫혀 있어야 한다.
 		- 확장에 대해 열려있다: 애플리케이션의 요구 사항이 변경될 때, 이 변경에 맞게 새로운 '동작'을 추가해서 애플리케이션의 기능을 확장할 수 있다.
 		- 수정에 대해 닫혀있다: 기존의 '코드'를 수정하지 않고도 애플리케이션의 동작을 추가하거나 변경할 수 있다.
 
-- L(Liskov Substitution Principle, LSP)
-	- 
+- L *(Liskov Substitution Principle, LSP)*
+	- 서브타입은 그것의 기반 타입에 대해 대체 가능해야 하고, 클라이언트가 차이점을 인식하지 못한 채 기반 클래스의 인터페이스를 통해 서브클래스를 사용할 수 있어야 한다.
+	- S형의 각 객체 o1에 대해 T형의 객체 o2가 하나 있고, T에 의해 정의된 모든 프로그램 P에서 T가 S로 치환될 때, P의 동작이 변하지 않으면 S는 T의 서브타입이다.
 
+- I *(Interface Segregation Principle, ISP)*
+	- 인터페이스를 클라이언트의 기대에 따라 분리함으로써 변경에 의해 영향을 제어해야 한다.
+	- '비대한' 클래스의 인터페이스를 여러 개의 클라이언트에 특화된 인터페이스로 분리하여라
+
+- D (Dependency Inversion Principle, DIP)
+	- 상위 수준의 모듈은 하위 수준의 모듈에 의존해서는 안 된다. 둘 모두 추상에 의존해야 한다.
+	- 추상화는 구체적인 사항에 의존해서는 안 된다. 구체적인 사항이 추상화에 의존해야 한다.
